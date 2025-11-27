@@ -1,0 +1,15 @@
+Package: GeneCpGFinder
+Title: Fast Genomic Information Search for Human Genes
+Version: 1.0.0
+Authors@R: person("Md. Mahbubul Islam", "Bioinformatics Research Assistant", 
+                  email = "mahbubulislam331@gmail.com", 
+                  role = c("aut", "cre"))
+Description: A lightweight R package for instant gene information search 
+    using local database of 78,656 human genes. Provides ultra-fast access
+    to genomic coordinates without internet connection.
+License: MIT
+URL: https://github.com/Islam-DS/GeneCpGFinder
+BugReports: https://github.com/Islam-DS/GeneCpGFinder/issues
+Depends: R (>= 4.0.0)
+Encoding: UTF-8
+RoxygenNote: 7.3.3
